@@ -60,10 +60,10 @@ font-size: 22px;
 
 
 /** /контейнер для центрування контенту, розміри згідно макету/ */
-/* .container {
+.container {
   margin-left: auto;
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
   width: 1200px;
-} */
+}
