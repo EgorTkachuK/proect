@@ -173,7 +173,7 @@ font-weight: 100;
 line-height: normal;
 }
 .menu-button-item{
-  flex-basis: calc(( 100% - 2 * 198px ) / 4 );
+  flex-basis: calc(( 100% - 3 * 198px ) / 4 );
 }
 .menu-button{
   color: #FFF;
